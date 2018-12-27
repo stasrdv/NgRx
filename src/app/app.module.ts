@@ -20,7 +20,6 @@ import { UserModule } from "./user/user.module";
 /*NgRx */
 import { StoreModule } from "@ngrx/store";
 
-
 @NgModule({
   imports: [
     BrowserModule,
